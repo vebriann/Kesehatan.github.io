@@ -323,7 +323,11 @@ body {
 
   #artikel .header-artikel .beritaterkini .row .col-md-3 .content .beritaterkini .row .col-md-7 a {
     font-size: 20px;
-
+  }
+  
+  #artikel .header-artikel .beritaterkini .row .col-md-3 .content .beritaterkini .row .col-md-7 a:hover {
+    color: orange;
+    font-size: 20px;
   }
 
 }
